@@ -1,17 +1,12 @@
-### Hi there 👋 I'm Tara!
 
-#### ☺️ Good day, my ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor!
+## welcome aboard 🚢 
 
-##### Full-stack Development | Spatial Data Science | Cyber Security
+#### Good day, the ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor :)
 
-- 🐝 M.S. in Computational Science and Engineering at Georgia Tech
-- 🧷 AI Safety Fellow
-- 🌱 Ex - Graduate Research Assistant in Geospatial Data Science
-- 👩‍💻 Ex - Data Analyst Intern at MARTA
-- 💬 Ask me about fashion, metal music, books, and gym! 
-- 📫 Connet with me on **[LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)**
-- 👩‍🍳 **[My Cooking portfolio](https://www.instagram.com/food_in_mirkwood/)**
-
+##### I'm Tara, a Full-stack Developer
+- 🐝 M.S. Comptutational Sci & Engr @ Georgia Tech
+- 🧷 AI Safety Researcher @ AISI
+- 📫 **[LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)**
 
 
 #### My inspiration
