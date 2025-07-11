@@ -1,7 +1,7 @@
 
 ## welcome aboard 🚢 
 
-#### Good day, the ![Visitor Count](https://profile-counter.glitch.me/drunken-boat/count.svg) visitor :)
+#### Good day, the ![Visitor Count](https://profile-counter.glitch.me/drunk3nb0at/count.svg) visitor :)
 
 ##### I'm Tara, a Full-stack Developer
 - 🐝 M.S. Comptutational Sci & Engr @ Georgia Tech
@@ -15,7 +15,7 @@
 > -- Robert A. Heinlein
 
 #### Stats
-<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=taraliu23" alt="taraliu23" /></p>
+<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunk3nb0at" alt="drunk3nb0at" /></p>
 
 #### Langs
 
