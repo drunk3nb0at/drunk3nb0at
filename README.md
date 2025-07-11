@@ -15,7 +15,7 @@
 > -- Robert A. Heinlein
 
 #### Stats
-<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunk3nb0at" alt="drunk3nb0at" /></p>
+<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunk3nb0at&count_private=true&show_icons=true&theme=rose_pine" alt="drunk3nb0at" /></p>
 
 #### Langs
 
