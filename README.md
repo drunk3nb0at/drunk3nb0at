@@ -9,7 +9,7 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
 - 🌐 Fun fact: My user name is from a Symbolist poem *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
 
-#### Selected Work
+#### Selected Full Stack Projects
 
 [🗺️ Resilient Futures Lab](http://yiyihe.xyz/)
 
