@@ -17,6 +17,14 @@
 #### Stats
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunk3nb0at&count_private=true&show_icons=true&theme=rose_pine" alt="drunk3nb0at" /></p>
 
+#### Selected Work
+
+[Resilient Futures Lab](http://yiyihe.xyz/)
+
+[Aro & Sword](https://aro-n-sword.com/)
+
+[Valediction](https://valediction.onrender.com/)
+
 #### Langs
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
