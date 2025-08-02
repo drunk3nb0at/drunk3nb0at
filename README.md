@@ -7,7 +7,7 @@
 - 🐝 M.S. Comptutational Sci & Engr @ Georgia Tech
 - 🧷 AI Safety Researcher @ AISI
 - 📫 [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
-- 🌐 Fun fact: My user name is from a Symbolist poem *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
+- 🌐 Fun fact: My user name is from a Symbolist poem, *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
 
 #### Selected Full Stack Projects
 
