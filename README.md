@@ -5,7 +5,7 @@
 
 ##### I'm Tara, a Full-stack Developer
 - 🐝 M.S. Comptutational Sci & Engr @ Georgia Tech
-- 🧷 AI Safety Researcher @ AISI
+- 🧷 AI Safety Researcher @ [AISI](https://www.aisi.dev/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
 - 🌐 Fun fact: My user name is from a Symbolist poem, *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
 
