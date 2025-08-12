@@ -15,7 +15,6 @@
 
 [💚 Aro & Sword](https://aro-n-sword.com/)
 
-[🎓 Valediction](https://valediction.onrender.com/)
 
 #### Computational Science Projects
 
