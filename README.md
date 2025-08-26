@@ -12,16 +12,16 @@
 
 #### Selected Full Stack Projects
 
-[🗺️ Resilient Futures Lab](http://yiyihe.xyz/)
+- [🗺️ Resilient Futures Lab](http://yiyihe.xyz/)
 
-[💚 Aro & Sword](https://aro-n-sword.com/)
+- [💚 Aro & Sword](https://aro-n-sword.com/)
 
 
 #### Computational Science Projects
 
-[🧳 TSP Solver](https://github.com/drunk3nb0at/CSE6140-Final-Project)
+- [🧳 TSP Solver](https://github.com/drunk3nb0at/CSE6140-Final-Project)
 
-[0️⃣ Numerical Linear Algebra](https://github.com/drunk3nb0at/CSE-6643-Homework)
+- [0️⃣ Numerical Linear Algebra](https://github.com/drunk3nb0at/CSE-6643-Homework)
 
 
 #### My inspiration
