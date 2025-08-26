@@ -8,6 +8,7 @@
 - 🧷 AI Safety Researcher @ [AISI](https://www.aisi.dev/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
 - 🌐 Fun fact: My user name is from a Symbolist poem, *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
+- 📷 [Download & Use my nature photography for free!](https://unsplash.com/@naturalist_boat)
 
 #### Selected Full Stack Projects
 
