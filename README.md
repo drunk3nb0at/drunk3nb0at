@@ -37,7 +37,7 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 - Fun fact: My user name is from a poem, *Le Bateau ivre(The Drunken Boat)*. I'm always sober :)
 - [Photography!](https://unsplash.com/@naturalist_boat)
-- [My First Novel(Written in Chinese)](https://t-aa-g.com/)
+- [Read My Novel(Written in Chinese)](https://t-aa-g.com/)
 - 公众号：醉行舟
 - I'm AroAce (short for [Aromantic asexual](https://lgbtqia.fandom.com/wiki/Aromantic_asexual))
 - I'm non-binary, demi-boy.
