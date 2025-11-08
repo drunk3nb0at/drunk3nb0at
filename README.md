@@ -2,7 +2,7 @@
 #### Welcome Aboard 🚢 
 
 #### I'm Tara(they), a Full-stack Developer.
-- AI Safety Researcher @ [AISI](https://www.aisi.dev/)
+- Data Sys Admin @ [CCC](https://www.coalitioncommunitiescolor.org/)
 - [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
 
 ---
