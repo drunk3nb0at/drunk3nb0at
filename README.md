@@ -39,5 +39,5 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 - [Photography!](https://unsplash.com/@naturalist_boat)
 - [Read My Novel(Written in Chinese)](https://t-aa-g.com/)
 - 公众号：醉行舟
-- I'm AroAce (short for [Aromantic asexual](https://lgbtqia.fandom.com/wiki/Aromantic_asexual))
-- I'm non-binary, demi-boy.
+- I'm AroAce 🏳️‍🌈 (short for [Aromantic asexual](https://lgbtqia.fandom.com/wiki/Aromantic_asexual))
+- I'm a non-binary 🏳️‍⚧️ demi-boy.
