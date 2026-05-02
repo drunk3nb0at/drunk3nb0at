@@ -1,7 +1,7 @@
 
 #### Welcome Aboard 🚢 
 
-#### I'm Tara(they), a Full-stack Developer.
+#### I'm Tara(he/they), a Full-stack Developer.
 - Data Sys Admin @ [CCC](https://www.coalitioncommunitiescolor.org/)
 - [LinkedIn](https://www.linkedin.com/in/tara-tingyu-liu/)
 
@@ -16,10 +16,6 @@
 | [TSP Solver](https://github.com/drunk3nb0at/CSE6140-Final-Project)             	| Comput'l Science 	|
 | [NB DL Map](https://nbmap.pages.dev/)                        	| Web GIS       	|
 
----
-#### Stats
-
-<p><img align="mid" src="https://github-readme-stats.vercel.app/api?username=drunk3nb0at&count_private=true&show_icons=true&theme=rose_pine" alt="drunk3nb0at" /></p>
 
 ---
 #### Inspiration
@@ -30,6 +26,14 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 ```
 此后如竟没有炬火，我便是唯一的光。——鲁迅。
 ```
+
+
+---
+
+#### Facts
+
+[Transgender and non-binary people have existed for as long as human history.](https://www.hrc.org/resources/seven-things-about-transgender-people-that-you-didnt-know)
+
 
 ---
 
