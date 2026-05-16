@@ -45,3 +45,7 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 - 公众号：醉行舟
 - I'm AroAce 🏳️‍🌈 (short for [Aromantic asexual](https://lgbtqia.fandom.com/wiki/Aromantic_asexual))
 - I'm a non-binary 🏳️‍⚧️ demi-boy.
+
+#### Disclaimer 
+
+All opinions are my own. All opionions and open source projects are not representative of my employer.
