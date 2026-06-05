@@ -29,6 +29,11 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 ```
 "Libraries were full of ideas - perhaps the most dangeroous and powerful of all weapons"- Throne of Glass by Sarah J. Mass 2012
 ```
+```
+"Sometimes it’s the people no one imagines anything of who do the things that no one can imagine." -The Imitation Game
+
+```
+
 ---
 
 #### Facts
