@@ -31,7 +31,6 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 ```
 ```
 "Sometimes it’s the people no one imagines anything of who do the things that no one can imagine." -The Imitation Game
-
 ```
 
 ---
