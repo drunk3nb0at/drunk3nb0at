@@ -26,8 +26,9 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 ```
 此后如竟没有炬火，我便是唯一的光。——鲁迅。
 ```
-
-
+```
+"Libraries were full of ideas - perhaps the most dangeroous and powerful of all weapons"- Throne of Glass by Sarah J. Mass 2012
+```
 ---
 
 #### Facts
