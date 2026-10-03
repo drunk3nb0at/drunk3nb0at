@@ -26,7 +26,7 @@
 
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. - Robert A. Heinlein
 
-Libraries were full of ideas - perhaps the most dangeroous and powerful of all weapons - Throne of Glass by Sarah J. Mass 2012
+Libraries were full of ideas - perhaps the most dangerous and powerful of all weapons - Throne of Glass by Sarah J. Mass
 
 Sometimes it’s the person no one imagines anything of, who does the things that no one can imagine. - The Imitation Game
 ```
